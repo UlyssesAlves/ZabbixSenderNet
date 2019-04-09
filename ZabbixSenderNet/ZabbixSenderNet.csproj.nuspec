@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ZabbixSenderNet</id>
+    <version>19.4.9.0</version>
+    <authors>SIAGRI</authors>
+    <owners>SIAGRI</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ZabbixSenderNet implements Zabbix Sender Protocol 2.0 by .NET.</description>
+    <releaseNotes>Adjustment to make ZabbixSenderNet work with Zabbix 4.0.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>ZabbixSenderNet Zabbix</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="6.0.8" />
+    </dependencies>
+  </metadata>
+</package>
